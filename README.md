@@ -1,10 +1,9 @@
 <h2>
   Hello there👋 
-  <p>I'm Derrick Mulinde</p>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=inspecta&label=Views&color=blue&style=plastic" alt="inspecta"/></p>
 </h2>
 <p>
-I'm Derrick Mulinde, a Full Stack Developer with a Curious Mind and a Crisp Thinking. 
+<b>I'm Derrick Mulinde</b>, a Full Stack Developer with a Curious Mind and a Crisp Thinking. 
 I'm currently upgrading my programming knowledge and skills at Microverse; an online school that employs self tutoring and pair programming as their methods of teaching.
 
 </p>
