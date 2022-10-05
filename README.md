@@ -1,22 +1,25 @@
 <h2>
-  Hello there👋 
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=inspecta&label=Views&color=blue&style=plastic" alt="inspecta"/></p>
+  Hi there, I'm Derrick! :smile: 
 </h2>
 <p>
-<b>I'm Derrick Mulinde</b>, a Full Stack Developer with a Curious Mind and a Crisp Thinking. 
+An Enthusiastic Full Stack Developer with a great passion of coding. <br/>
 I'm currently upgrading my programming knowledge and skills at Microverse; an online school that employs self tutoring and pair programming as their methods of teaching.
-
 </p>
   
- <details>
-  <summary>⚡ Languages Summary</summary>
+<details>
+  <summary>My Latest Languages</summary>
 </details>
 
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=inspecta&show_icons=true&count private=true&theme=calm" width="412"/></a>
-  <a ahref="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inspecta&layout=compact&theme=calm"/ height="162"></a>
- </p>
- 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+
+<b>Contributions</b>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=inspecta&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
 <h3>
   <b>💻&nbsp; Languages and Tools</b><br/><br/>
   
@@ -38,4 +41,8 @@ I'm currently upgrading my programming knowledge and skills at Microverse; an on
   <a target="_blank" href="mailto:djmulinde@gmail.com">
     <img src="https://img.shields.io/badge/-Google-rgb(67%2C%202%2C%20151)?style=for-the-badge&logo=Gmail&logoColor=white"></img>
   </a>
+</p>
+
+<p align="center"> © 2022 Derrick Mulinde. All rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
 </p>
