@@ -1,4 +1,4 @@
-<h2>
+<h2 align="center">
   Derrick Mulinde :smile:
 </h2>
 <div id="header" align="center">
