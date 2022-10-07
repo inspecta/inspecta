@@ -25,19 +25,19 @@
 
 ### :woman_technologist: About Me :
 
-I am a full stack web developer lately able to develop projects in HTML, CSS, JavaScript, PHP and Java (Spring and Spring Boot).
+I am a full stack web developer lately able to develop projects in HTML, CSS, JavaScript and PHP.
 
-I am a curious individual with a willingness to always improve myself and learn from others, a great team leader and player as well.
+I am a curious individual with a willingness to always improve myself and learn from others, a great team leader and player as well. Able to learn new languages and technologies within a limited period of time.
 
 Currently upgrading my programming knowledge and skills at [Microverse](https://www.microverse.org).
 
 Currently learning JavaScript Networking, Webpack and APIs. To also learn React, Redux, Ruby and Rails.
 
 During my free time, I like to 
-- Have a rest
-- Read and research
-- Watch movies and listen to music
-- Watch sports (Football and F1)
+- Solve coding challenges on [Hackerrank](https://www.hackerrank.com)
+- Read and research.
+- Watch movies and listen to music.
+- Watch sports (Football and F1).
 
 ---
 
