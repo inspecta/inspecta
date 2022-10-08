@@ -31,12 +31,12 @@ I am a curious individual with a willingness to always improve myself and learn 
 
 Currently upgrading my programming knowledge and skills at [Microverse](https://www.microverse.org).
 
-Currently learning JavaScript Networking, Webpack and APIs. To also learn React, Redux, Ruby and Rails.
+Learning JavaScript, Social Networking, Webpack and APIs. To also learn React, Redux, Ruby and Rails soon.
 
 During my free time, I like to 
 - Solve coding challenges on [Hackerrank](https://www.hackerrank.com)
 - Read and research.
-- Watch movies and listen to music.
+- Watch movies and listen to music. 
 - Watch sports (Football and F1).
 
 ---
