@@ -50,16 +50,8 @@ During my free time, I like to
 ---
 
 <h3><b>💻&nbsp; Languages and Tools</b><br/><br/></h3>
- 
-  ![Html](https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor)
-  ![Css](https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor)
-  ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-  ![Nodejs](https://icongr.am/devicon/nodejs-original-wordmark.svg?size=70&color=currentColor)
-  ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=e86d6d)
-  ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
-  ![Webpack](https://icongr.am/devicon/webpack-plain-wordmark.svg?size=50&color=e98b8b)
-  ![Visual Studio Code](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
-
+   
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 ---
 
 <p align="center"> © 2022 Derrick Mulinde. All rights reserved.</p>
