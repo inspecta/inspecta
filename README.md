@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a full stack web developer lately able to develop projects in HTML, CSS, JavaScript and PHP.
+I am a full stack web developer lately able to develop projects in HTML5, CSS3, TailwindCSS & Sass, JavaScript, React & NextJS, Redux, Zustand, PHP, Java (Spring and Spring Boot), Ruby, Rails, PostgreSQL, MySQL and SQL Server.
 
 I am a curious individual with a willingness to always improve myself and learn from others, a great team leader and player as well. Able to learn new languages and technologies within a limited period of time.
 
@@ -54,4 +54,4 @@ During my free time, I like to
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 ---
 
-<p align="center"> © 2022 Derrick Mulinde. All rights reserved.</p>
+<p align="center"> © 2023 Derrick Mulinde. All rights reserved.</p>
