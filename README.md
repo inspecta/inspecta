@@ -47,11 +47,42 @@ During my free time, I like to
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=inspecta&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
----
+<h1 align="center">Skills</h1>
 
-<h3><b>💻&nbsp; Languages and Tools</b><br/><br/></h3>
-   
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat" alt="Ruby" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java" />
+</p>
+
+
+<h1 align="center">Frameworks/Libraries</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
+  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat" alt="Sass" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot" />
+</p>
+
+<h1 align="center">Tools</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Render-ff5722?logo=render&logoColor=white&style=flat" alt="Render" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" alt="Netlify" />
+  <img src="https://img.shields.io/badge/-Chrome_Dev_Tools-333333?logo=google-chrome&logoColor=white&style=flat" alt="Chrome Dev Tools" />
+</p>
+
+
+
 
 <p align="center"> © 2023 Derrick Mulinde. All rights reserved.</p>
