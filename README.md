@@ -3,13 +3,13 @@
 </h2>
 
 <div id="header" align="center">
+  <h1>A Full-Stack Web Developer</h1>
+</div>
+
+<div id="header" align="center">
   <img src="https://github.com/inspecta/inspecta/blob/main/logo3.png" width="200" />
 </div>
 <br/>
-
-<div id="header" align="center">
-  <h1>A Full-Stack Web Developer</h1>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/derrick-mulinde/">
