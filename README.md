@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi, I am Derrick Mulinde :wave:
+  Hello, I'm Derrick Mulinde :wave:
 </h2>
 <div id="header" align="center">
   <img src="https://github.com/inspecta/inspecta/blob/dev-profile/private.gif" width="250" />
@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/derrick-mulinde/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/mdeks/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.medium.com/@djmulinde17">
+    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Meidum Badge"/>
   </a>
   <a href="https://www.twitter.com/djmulinde">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -23,21 +23,14 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me 😄👨🏾‍🦰:
 
-I am a full stack web developer lately able to develop projects in HTML5, CSS3, TailwindCSS & Sass, JavaScript, React & NextJS, Redux, Zustand, PHP, Java (Spring and Spring Boot), Ruby, Rails, PostgreSQL, MySQL and SQL Server.
-
-I am a curious individual with a willingness to always improve myself and learn from others, a great team leader and player as well. Able to learn new languages and technologies within a limited period of time.
-
-Currently upgrading my programming knowledge and skills at [Microverse](https://www.microverse.org).
-
-Learning JavaScript, Social Networking, Webpack and APIs. To also learn React, Redux, Ruby and Rails soon.
-
-During my free time, I like to 
-- Solve coding challenges on [Hackerrank](https://www.hackerrank.com)
-- Read and research.
-- Watch movies and listen to music. 
-- Watch sports (Football and F1).
+- 👨🏼‍💻 Looking to collaborate in web applications using Ruby on Rails, React, JavaScript, HTML5 and CSS3.
+- 💪🏾 Compassionate about keeping up-to-date with the latest web development technologies and coding practises.
+- 🎓 Just graduated from [Microverse](https://microverse.org), an online web development schoool.
+- 😀 Pronuons: He/Him
+- 💡 Insight: The measure of intelligence is the ability to change!
+- 🤾🏾‍♂️ Free time: Chess ♟️ - Movies 🎥 - Music 🎶 - Football ⚽️ - F1 🏎️.
 
 ---
 
@@ -81,8 +74,6 @@ During my free time, I like to
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" alt="Netlify" />
   <img src="https://img.shields.io/badge/-Chrome_Dev_Tools-333333?logo=google-chrome&logoColor=white&style=flat" alt="Chrome Dev Tools" />
 </p>
-
-
-
+<br/><br/>
 
 <p align="center"> © 2023 Derrick Mulinde. All rights reserved.</p>
