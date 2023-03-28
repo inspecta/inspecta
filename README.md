@@ -30,7 +30,7 @@
 - 👨🏼‍💻 Looking to collaborate on web applications using Ruby on Rails, React, JavaScript, HTML5 and CSS3.
 - 💪🏾 Compassionate about keeping up-to-date with the latest web development technologies and coding practises.
 - 🎓 Just graduated from [Microverse](https://microverse.org), an online web development schoool.
-- 😀 Pronuons: He/Him
+- 😀 Pronouns: He/Him
 - 💡 Insight: The measure of intelligence is the ability to change!
 - 🤾🏾‍♂️ Free time: Chess ♟️ - Movies 🎥 - Music 🎶 - Football ⚽️ - F1 🏎️.
 
@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=green&style=flat" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Webpack-61DAFB?logo=webpack&logoColor=blue&style=flat" alt="Webpack" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
