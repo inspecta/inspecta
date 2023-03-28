@@ -2,7 +2,7 @@
   Hello, I'm Derrick Mulinde :wave:
 </h2>
 <div id="header" align="center">
-  <img src="https://github.com/inspecta/inspecta/blob/dev-profile/private.gif" width="250" />
+  <img src="https://github.com/inspecta/inspecta/blob/main/19362653.jpg" width="300" />
 </div>
 
 <div id="badges" align="center">
