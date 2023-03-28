@@ -12,8 +12,8 @@
   <a href="https://www.medium.com/@djmulinde17">
     <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Meidum Badge"/>
   </a>
-  <a href="https://www.twitter.com/djmulinde">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://wellfound.com/u/derrick-mulinde">
+    <img src="https://img.shields.io/badge/Wellfound-blue?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
   </a>
 </div>
 
