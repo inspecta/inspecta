@@ -1,9 +1,11 @@
 <h2 align="center">
   Hello, I'm Derrick Mulinde :wave:
 </h2>
+
 <div id="header" align="center">
-  <img src="https://github.com/inspecta/inspecta/blob/main/19362653.jpg" width="300" />
+  <img src="https://github.com/inspecta/inspecta/blob/main/logo3.png" width="200" />
 </div>
+<br/>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/derrick-mulinde/">
