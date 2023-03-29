@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java" />
 </p>
 
 
@@ -66,9 +65,6 @@
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat" alt="Sass" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat" alt="Hibernate" />
-
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" />
 <img src="https://img.shields.io/badge/-Axios-007ACC?logo=axios&logoColor=white&style=flat" alt="Axios" />
@@ -85,9 +81,6 @@
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" alt="Netlify" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman" />
   <img src="https://img.shields.io/badge/-Chrome_Dev_Tools-333333?logo=google-chrome&logoColor=white&style=flat" alt="Chrome Dev Tools" />
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat" alt="NetBeans" />
-
 </p>
 <br/><br/>
 
