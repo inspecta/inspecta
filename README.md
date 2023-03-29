@@ -60,12 +60,19 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=green&style=flat" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
+
   <img src="https://img.shields.io/badge/-Webpack-61DAFB?logo=webpack&logoColor=blue&style=flat" alt="Webpack" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat" alt="Sass" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat" alt="Hibernate" />
+
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" />
+<img src="https://img.shields.io/badge/-Axios-007ACC?logo=axios&logoColor=white&style=flat" alt="Axios" />
+
 </p>
 
 <h1 align="center">Tools</h1>
@@ -76,7 +83,11 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Render-ff5722?logo=render&logoColor=white&style=flat" alt="Render" />
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" alt="Netlify" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman" />
   <img src="https://img.shields.io/badge/-Chrome_Dev_Tools-333333?logo=google-chrome&logoColor=white&style=flat" alt="Chrome Dev Tools" />
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat" alt="NetBeans" />
+
 </p>
 <br/><br/>
 
