@@ -3,10 +3,6 @@
 </h2>
 
 <div id="header" align="center">
-  <h1>A Full-Stack Web Developer</h1>
-</div>
-
-<div id="header" align="center">
   <img src="https://github.com/inspecta/inspecta/blob/main/logo3.png" width="200" />
 </div>
 <br/>
@@ -29,9 +25,9 @@
 
 ---
 
-### About Me 😄👨🏾‍🦰:
+### I'm a Full-Stack Web Developer
 
-- 👨🏼‍💻 Looking to collaborate on web applications using Ruby on Rails, React, JavaScript, HTML5 and CSS3.
+- 👨🏼‍💻 Looking to collaborate on web applications with other developers.
 - 💪🏾 Compassionate about keeping up-to-date with the latest web development technologies and coding practises.
 - 🎓 Just graduated from [Microverse](https://microverse.org), an online web development schoool.
 - 😀 Pronouns: He/Him
