@@ -30,9 +30,9 @@
 - 👨🏼‍💻 Looking to collaborate on web applications with other developers.
 - 💪🏾 Compassionate about keeping up-to-date with the latest web development technologies and coding practises.
 - 🎓 Just graduated from [Microverse](https://microverse.org), an online web development schoool.
-- 😀 Pronouns: He/Him
+- 😀 Pronouns: He/Him.
 - 💡 Insight: The measure of intelligence is the ability to change!
-- 🤾🏾‍♂️ Free time: Chess ♟️ - Movies 🎥 - Music 🎶 - Football ⚽️ - F1 🏎️.
+- 🤾🏾‍♂️ Free time: Chess ♟️ - Movies 🎥 - Stand up Comedy 😂 - Music 🎶 - Football ⚽️ - F1 🏎️
 
 ---
 
